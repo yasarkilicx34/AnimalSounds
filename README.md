@@ -22,7 +22,7 @@ This app aims to be both fun and educational for children, providing a safe and 
 
 Feel free to explore and have fun with AnimalSound
 
-![1](https://github.com/yasarkilicx34/AnimalSounds/assets/83876748/598b1101-41ed-4c9f-9442-6632eaa4a1d3) ![2](https://github.com/yasarkilicx34/AnimalSounds/assets/83876748/57096052-7d2e-4629-b3d1-21b504475fb1)   ![3](https://github.com/yasarkilicx34/AnimalSounds/assets/83876748/4d30a9e1-112a-4a6e-8e6b-dd554f0646bf)   ![4](https://github.com/yasarkilicx34/AnimalSounds/assets/83876748/87f95f29-b347-47d7-8a8e-4866295ba5a2)  ![5](https://github.com/yasarkilicx34/AnimalSounds/assets/83876748/dd4eddf1-f64f-4149-95d3-73831aecde4d)
+![1](https://github.com/yasarkilicx34/AnimalSounds/assets/83876748/598b1101-41ed-4c9f-9442-6632eaa4a1d3) ![2](https://github.com/yasarkilicx34/AnimalSounds/assets/83876748/57096052-7d2e-4629-b3d1-21b504475fb1)   ![3](https://github.com/yasarkilicx34/AnimalSounds/assets/83876748/4d30a9e1-112a-4a6e-8e6b-dd554f0646bf)   ![4](https://github.com/yasarkilicx34/AnimalSounds/assets/83876748/87f95f29-b347-47d7-8a8e-4866295ba5a2) ![5](https://github.com/yasarkilicx34/AnimalSounds/assets/83876748/dd4eddf1-f64f-4149-95d3-73831aecde4d)
 
 
 
